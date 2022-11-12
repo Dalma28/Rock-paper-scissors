@@ -1,4 +1,5 @@
-#Labration1
+'''18/09/2020'''
+'''Done by Diaa Almughrabi'''
 import random
 def choose_option(The_name):
     prop_answer= False 
